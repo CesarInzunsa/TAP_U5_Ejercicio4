@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        cargarDatosDesdeNube()
+
         button.setOnClickListener {
             val documento = hashMapOf(
                 "NOMBRE" to nombre.text.toString(),
