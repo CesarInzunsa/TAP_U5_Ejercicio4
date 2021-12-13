@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625061139045",
+    "project_id": "tap-u5-ejercicio4",
+    "storage_bucket": "tap-u5-ejercicio4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625061139045:android:a72a317469ffedac352c8c",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tap_u5_ejercicio4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625061139045-79d7df2ku3qu2phau6cpeedmpfa3e72m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJA8JXqe27O4aoTAX35mW8e60N3ZjjGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625061139045-79d7df2ku3qu2phau6cpeedmpfa3e72m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
